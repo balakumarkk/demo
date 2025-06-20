@@ -1,2 +1,0 @@
-username = nuv02
-password = rdy03
